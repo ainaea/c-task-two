@@ -13,6 +13,8 @@ namespace InvoiceTest
             Console.WriteLine($"Current price is {invoice2.Price}");
             Console.WriteLine($"Current invoice amount is {invoice1.GetInvoiceAmount():C}");
 
+            // Console.WriteLine("Good morning");
+
         }
     }
 }
