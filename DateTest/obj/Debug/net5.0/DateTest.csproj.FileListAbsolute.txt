@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\DateTest.exe
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\DateTest.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\DateTest.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\DateTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\DateTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\ref\DateTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\bin\Debug\net5.0\DateTest.pdb
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\ref\DateTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.pdb
+C:\CodebitsAcademy\C#  labTask\labTask2\DateTest\obj\Debug\net5.0\DateTest.genruntimeconfig.cache

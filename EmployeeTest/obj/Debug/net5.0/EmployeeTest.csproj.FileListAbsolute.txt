@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\EmployeeTest.exe
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\EmployeeTest.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\EmployeeTest.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\EmployeeTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\EmployeeTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\ref\EmployeeTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\bin\Debug\net5.0\EmployeeTest.pdb
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\ref\EmployeeTest.dll
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.pdb
+C:\CodebitsAcademy\C#  labTask\labTask2\EmployeeTest\obj\Debug\net5.0\EmployeeTest.genruntimeconfig.cache
